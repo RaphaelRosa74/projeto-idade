@@ -36,7 +36,7 @@ function verificar(){
                 }
             }
             res.style.textAlign = 'center'
-            res.innerHTML = `Então você é ${genero} com ${idade} anos. Que legal!`
+            res.innerHTML = `Vejamos aqui, você é ${genero} com ${idade} anos. =)`
             res.appendChild(img)
         }
 }

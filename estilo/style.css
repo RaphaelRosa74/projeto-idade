@@ -16,9 +16,10 @@ section {
     padding: 15px;
     height: auto; 
     min-height: 210px; 
+    width: 480px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.525);
-    overflow: hidden;
+    overflow: hidden; 
 }
 
 footer {
@@ -31,6 +32,6 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    display: block; 
+    display: block;
     margin: 10px auto; 
 }
